@@ -1,3 +1,9 @@
+Вспомогательные материалы: 
+https://www.kaggle.com/competitions/amex-default-prediction/code
+https://arxiv.org/pdf/1505.01866.pdf
+https://question-it.com/questions/12360259/avtoenkoder-vremennyh-rjadov-s-metadannymi
+https://ods.ai/tracks/dl_in_finance/competitions/dl-fintech-card-transactions/faq
+
 # [AlfaBattle2.0](https://boosters.pro/championship/alfabattle2/overview)
 ## Нейросетевой подход к моделированию карточных транзакций [[habr]](https://habr.com/ru/company/alfa/blog/551130/) [[youtube]](https://youtu.be/yzV5ZQB850s)
 ### Официально соревнование закончилось, но вы всегда можете проверить качество своего подхода, [сделав сабмит в песочницу соревнования](https://boosters.pro/championship/alfabattle2_sand/overview).
